@@ -18,7 +18,7 @@ if __name__ == "__main__":
     """Multiplication of a and b """
 
     print("{} * {} = {}".format(a, b, mul(a, b)))
-    
+
     """Division of a and b """
 
     print("{} / {} = {}".format(a, b, div(a, b)))
