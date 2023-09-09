@@ -10,7 +10,7 @@ def new_in_list(my_list, idx, element):
 
     else:
 
-        copy_of_list  = my_list[0:]
+        copy_of_list = my_list[:]
 
         copy_of_list[idx] = element
 
