@@ -4,5 +4,5 @@ def max_integer(my_list=[]):
 
     if my_list == []:
         return (None)
-    my_list.reverse()
+    my_list.sort.reverse()
     return (my_list[0])
