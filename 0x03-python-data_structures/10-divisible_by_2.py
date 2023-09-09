@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-# 10-divisible_by_2.py
 
 def divisible_by_2(my_list=[]):
 
@@ -14,3 +13,4 @@ def divisible_by_2(my_list=[]):
         else:
 
             even.append(False)
+            return (even)
