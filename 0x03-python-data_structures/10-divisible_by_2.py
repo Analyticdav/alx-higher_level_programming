@@ -13,4 +13,5 @@ def divisible_by_2(my_list=[]):
         else:
 
             even.append(False)
-            return (even)
+
+        return (even)
