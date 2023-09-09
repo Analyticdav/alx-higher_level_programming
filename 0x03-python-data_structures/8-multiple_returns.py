@@ -8,4 +8,4 @@ def multiple_returns(sentence):
 
         my_tuple = (len(sentence), sentence[:1])
 
-        return(my_ple)
+        return(my_tuple)
