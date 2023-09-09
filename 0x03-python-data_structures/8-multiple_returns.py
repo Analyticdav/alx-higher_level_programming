@@ -1,8 +1,7 @@
 #!/usr/bin/python3
-# 8-multiple_returns.py
 
 def multiple_returns(sentence):
-    if len(sentenc)e == 0:
+    if len(sentence) == 0:
 
         my_tuple = (0, None)
     else:
