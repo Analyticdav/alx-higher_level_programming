@@ -1,2 +1,2 @@
-def class square:
+class square:
     pass
