@@ -1,4 +1,5 @@
-ass BaseGeometry """
+#!/usr/bin/python3
+"""Clasass BaseGeometry """
 
 
 class BaseGeometry:
