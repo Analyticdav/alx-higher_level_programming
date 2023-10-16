@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 :#!/usr/bin/python3
+=======
+#!/usr/bin/python3
+>>>>>>> 0a1e0a0484eb25f070fac6d2bd08db31c2510e62
 """Add all arguments to a Python list and save them to a file."""
 import sys
 
