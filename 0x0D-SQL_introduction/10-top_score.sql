@@ -1,0 +1,2 @@
+-- A script to list the scores in second_table in descending order
+SELECT name, score FROM second_table order by score DESC;
