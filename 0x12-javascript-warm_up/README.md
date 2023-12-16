@@ -1,1 +1,1 @@
-Javascript
+Javascrip is fun
